@@ -1,4 +1,4 @@
-var arr=[10,20,"hi","bye"]
+var arr=[10,20,"hi","bye"]       //no use here
 
 
 
@@ -6,4 +6,4 @@ var arr=[10,20,"hi","bye"]
 function rest(a,b,...c){
     console.log(a,b,c);
 }
-rest(100,200,300)
+rest(100,200,300,400)

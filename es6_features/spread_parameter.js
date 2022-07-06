@@ -24,6 +24,7 @@ const employee={
     l_name: 'xyz',
     salary: '15000'
 }
+
 const employee_details = {
     gmail: 'abc@gmail.com',
     company: 'ty',
